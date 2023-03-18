@@ -1,1 +1,4 @@
-# todo_hspl
+# TODO
+
+ 
+- In master need to implement transmitTx and transmitRX 
